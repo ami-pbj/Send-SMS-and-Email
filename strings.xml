@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SendSMS</string>
+    <string name="send_sms_email"><![CDATA[Send SMS & E-mail]]></string>
+</resources>
